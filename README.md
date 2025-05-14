@@ -33,3 +33,19 @@ The project explores both **regression** and **classification** approaches to mo
 
 ---
 
+## 📈 Project Highlights
+
+- Performance metrics: R², MSE, MAE for regression; Accuracy, F1-score, and confusion matrix for classification
+- Model visualizations and comparison plots
+- Clean workflow and well-commented code in Colab
+
+---
+
+
+## 🚀 Future Ideas
+
+- Implement feature selection techniques
+- Add a web interface with Streamlit
+- Explore deep learning models (MLPs)
+
+---
